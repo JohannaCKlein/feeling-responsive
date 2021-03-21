@@ -69,7 +69,7 @@ $topbar-link-color-hover: $ci-5;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: $ci-6;
 
-$topbar-dropdown-label-color: $ci-5;
+$topbar-dropdown-label-color: #000;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
@@ -79,7 +79,7 @@ $topbar-link-bg-active-hover: $ci-5;
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: #000;
+$topbar-dropdown-link-bg: $ci-5;
 
 $topbar-menu-link-color-toggled: #000;
 $topbar-menu-icon-color-toggled: #000;
