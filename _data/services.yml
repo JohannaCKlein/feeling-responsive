@@ -4,14 +4,6 @@
   url: "/contact/"
   title: "Contact"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
-
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
-
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "ORCID"
+  url: "https://orcid.org/0000-0003-4557-4158"
+  title: "orcid"
