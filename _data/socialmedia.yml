@@ -3,7 +3,7 @@
   class: icon-twitter
   title: ""
 
-- name: Mail
+- name: e-mail
   url: "mailto:johanna.klein@sorbonne-universite.fr"
   clacc: icon-mail
   title: ""
