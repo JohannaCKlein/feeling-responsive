@@ -9,4 +9,4 @@ permalink: "/work/"
 ---
 
 Follow these links if you want to know more about my:
-- [Publications][
+- [Publications]({{ site.baseurl }}/work/publications/)
