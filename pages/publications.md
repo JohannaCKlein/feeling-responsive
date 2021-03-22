@@ -2,14 +2,12 @@
 layout: page
 show_meta: false
 title: "Publications"
-teaser:
-  These publications are all linked to my ORCID
 header:
   image_fullwidth: home_pagel.jpeg
 permalink: "/work/publications/"
 ---
 
-<button name="button" onclick="https://orcid.org/0000-0003-4557-4158">ORCID link</button>
+<button name="button" onclick="https://orcid.org/0000-0003-4557-4158">ORCID iD</button>
 
 3 . **New insights in chemical reactivity from quantum chemical topology**  
 <u>Klein J</u>, Fleurat-Lessard P, Pilmé J.  
