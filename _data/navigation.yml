@@ -14,11 +14,12 @@
     url: "/work/publications/"
   - title: "Oral communications"
     url: "/work/communications/"
-  - title: "Software packages"
-    url: "/work/software/"
-    dropdown:
-    - title: "IGMPlot"
-      url: "/work/software/igmplot/"
+
+- title: "Software packages"
+  url: "/software/"
+  dropdown:
+  - title: "IGMPlot"
+    url: "/software/igmplot/"
     
 - title: "Tips & Tricks"
   url: "/tips/"
