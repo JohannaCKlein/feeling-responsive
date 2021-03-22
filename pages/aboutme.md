@@ -7,6 +7,7 @@ meta_title: "About"
 permalink: "/aboutme/"
 header:
   image_fullwidth: home_pagel.jpeg
+homepage: true
 ---
 
 <style>
