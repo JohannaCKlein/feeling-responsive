@@ -7,5 +7,5 @@ header:
 permalink: "/work/software/"
 ---
 
-Follow these links if you want to know more about:
-- [IGMPlot](
+Follow this link if you want to know more about:
+- [IGMPlot]({{ site.baseurl }}/work/software/igmplot/) software package
