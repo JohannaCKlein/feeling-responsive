@@ -25,3 +25,5 @@ widget3:
 
 homepage: true
 ---
+
+Welcome here! Have fun!
