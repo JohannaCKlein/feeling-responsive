@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 title: "About Me"
 subheadline: "Current position and CV to download"
 meta_title: "About"
@@ -21,3 +22,5 @@ Second year PhD student, I am working under the supervision of Julien Pilmé at 
 
 
 <a href="https://twitter.com/Johanna_c_klein?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Johanna_c_klein</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
