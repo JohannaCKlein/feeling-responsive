@@ -5,6 +5,11 @@
 - title: Work
   url: "/work/"
   side: left
+  dropdown:
+  - title: "Publications"
+    url: "/work/publications/"
+  - title: "Software packages"
+    url: "/work/software/"
 
 - title: "Templates"
   url: "/design/"
