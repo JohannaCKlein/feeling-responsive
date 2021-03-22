@@ -17,6 +17,7 @@
 
 - title: "Software packages"
   url: "/software/"
+  side: left
   dropdown:
   - title: "IGMPlot"
     url: "/software/igmplot/"
