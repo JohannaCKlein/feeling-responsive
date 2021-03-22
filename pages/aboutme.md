@@ -14,7 +14,7 @@ text-align: justify}
 </style>
 
 Second year PhD student, I am working under the supervision of Julien Pilmé at the Laboratory of Theoretical Chemistry (LCT @UMR7616) at Sorbonne University. My work consists in a development of a software package whose role is the prediction of chemical reactions. This new approach combines IQA energy decomposition scheme on topological domains and conceptual DFT.
-
+```
 #mybutton{
 outline: none;
     border: 0.125rem solid #000;
@@ -33,6 +33,6 @@ color: #f2c56b;
     border: 0.125rem solid #f2c56b;
     transition: all 1.0s ease-in-out;
 }
-
+```
 
 
