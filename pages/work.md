@@ -3,8 +3,8 @@ layout: page
 show_meta: false
 title: "Work"
 subheadline: "Publications and other contributions"
-header: 
-   title: Work
+header:
+  image_fullwidth: home_pagel.jpeg
 permalink: "/work/"
 ---
 
