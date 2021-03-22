@@ -18,3 +18,6 @@ Second year PhD student, I am working under the supervision of Julien Pilmé at 
 
 
 <button name="button" onclick="">Downloadable CV here !</button>
+
+
+<a href="https://twitter.com/Johanna_c_klein?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Johanna_c_klein</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
