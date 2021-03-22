@@ -44,3 +44,4 @@ permalink: /index.html
 homepage: true
 ---
 
+<a class="twitter-timeline" href="https://twitter.com/Johanna_c_klein?ref_src=twsrc%5Etfw">Tweets by Johanna_c_klein</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
