@@ -16,6 +16,17 @@
     url: "/work/communications/"
   - title: "Software packages"
     url: "/work/software/"
+    
+- title: "Tips & Tricks"
+  url: "/tips/"
+  side: left
+  dropdown:
+  - title: "Gaussian"
+    url: "/tips/gaussian/"
+  - title: "CompChem"
+    url: "/tips/compchem/"
+  - title: "Data Vizu"
+    url: "/tips/vizu/"
 
 - title: "Templates"
   url: "/design/"
