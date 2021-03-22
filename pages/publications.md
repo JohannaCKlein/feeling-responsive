@@ -4,10 +4,12 @@ show_meta: false
 title: "Publications"
 teaser:
   These publications are all linked to my ORCID
-image:
-    title: ORCID.jpg
 header:
   image_fullwidth: home_pagel.jpeg
+image:
+    title: ORCID.jpg
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
 permalink: "/work/publications/"
 ---
 
