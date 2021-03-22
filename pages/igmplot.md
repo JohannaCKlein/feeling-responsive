@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Software Packages"
+title: "IGMPlot"
 header:
   image_fullwidth: home_pagel.jpeg
 permalink: "/software/igmplot/"
