@@ -8,7 +8,7 @@ header:
   image_fullwidth: home_pagel.jpeg
 permalink: "/work/publications/"
 ---
-![](ORCID.png)
+
 3 . **New insights in chemical reactivity from quantum chemical topology**  
 <u>Klein J</u>, Fleurat-Lessard P, Pilmé J.  
 _J Comput Chem._ **2021**;1–15.  
