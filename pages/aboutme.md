@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-subheadline: "Curriculum vitae online and downloadable"
+subheadline: "Current position and CV to download"
 meta_title: "About"
 permalink: "/aboutme/"
 header:
