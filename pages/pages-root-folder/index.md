@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Who I am?"
   url: 'https://johannacklein.github.io/perso/aboutme/'
-  image: widget-1-302x182.jpg
+  image: me.jpg
   text: 'Blablabla texte et image à modifier'
 widget2:
   title: "What do I do?"
